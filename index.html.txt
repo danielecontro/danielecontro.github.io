@@ -5,7 +5,7 @@
   <title>Il mio portfolio</title>
 </head>
 <body>
-  <h1>Ciao! Sono Giovanni Verdi</h1>
+  <h1>Ciao! Sono Daniele Contro</h1>
   <p>Benvenuto nel mio portfolio online.</p>
 
   <h2>I miei progetti:</h2>
