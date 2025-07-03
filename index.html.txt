@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Il mio portfolio</title>
+</head>
+<body>
+  <h1>Ciao! Sono Giovanni Verdi</h1>
+  <p>Benvenuto nel mio portfolio online.</p>
+
+  <h2>I miei progetti:</h2>
+  <ul>
+    <li><a href="https://github.com/giovanniverdi/progetto1">Progetto 1: App ToDo</a></li>
+    <li><a href="https://github.com/giovanniverdi/progetto2">Progetto 2: Gioco in Python</a></li>
+  </ul>
+</body>
+</html>
